@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🤔️📋️💾️ HasThatBeenDone/HasItBeenDone is a database and search tool for connecting up existing works to see if they have been done in a specific way (or at all) so that you can find the solution you are looking for, or confirm that your solution is new. Ruby in the core, Gherkin for the database.
